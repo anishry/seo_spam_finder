@@ -16,22 +16,18 @@ A GUI-based SEO spam investigation tool for identifying indexed spam pages, chec
 * Multi-threaded scanning
 * Sortable results table
 
----
-
 ## Requirements
 
 * Python 3.10 or newer
 * Internet connection
-
----
 
 ## Installation
 
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SEO-Spam-Finder-Pro.git
-cd SEO-Spam-Finder-Pro
+git clone https://github.com/anishry/seo_spam_finder.git
+cd seo_pam_finder
 ```
 
 ### Install Dependencies
@@ -45,8 +41,6 @@ pip install -r requirements.txt
 ```bash
 python SEO_Spam_Finder_Pro_V2.py
 ```
-
----
 
 ## Windows Installation
 
@@ -83,8 +77,6 @@ python SEO_Spam_Finder_Pro_V2.py
 5. Sort results by clicking column headers.
 6. Export results to CSV.
 
----
-
 ## Example
 
 Domain:
@@ -99,8 +91,6 @@ Keywords:
 rummy,casino,poker,betting
 ```
 
----
-
 ## Output
 
 The tool returns:
@@ -110,8 +100,6 @@ The tool returns:
 * Redirect Information
 * SSL Status
 * Security Header Score
-
----
 
 ## Disclaimer
 
