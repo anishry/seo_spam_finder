@@ -1,0 +1,4 @@
+ddgs>=9.14.4
+requests>=2.33.1
+python-whois>=0.9.6
+tldextract>=5.3.1
