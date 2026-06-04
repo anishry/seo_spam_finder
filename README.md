@@ -80,7 +80,7 @@ python SEO_Spam_Finder_Pro_V2.py
 Domain:
 
 ```text
-kerala.gov.in
+example.com
 ```
 
 Keywords:
