@@ -66,8 +66,6 @@ pip install -r requirements.txt
 python SEO_Spam_Finder_Pro_V2.py
 ```
 
----
-
 ## Usage
 
 1. Enter domain name.
