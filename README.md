@@ -27,7 +27,7 @@ A GUI-based SEO spam investigation tool for identifying indexed spam pages, chec
 
 ```bash
 git clone https://github.com/anishry/seo_spam_finder.git
-cd seo_pam_finder
+cd seo_spam_finder
 ```
 
 ### Install Dependencies
